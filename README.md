@@ -1,22 +1,20 @@
 # Election Analysis
 
 ## Overview of Project
-The project is to go over the tasks that need to be completed for the election audit, and discuss the information needed by the Colorado Board of Elections. After successfully submiting the election audit results to the election commission, the election commission has requested some additional data to complete the audit:
+After Seth and Tom submitted the election audit results to the election commission, the election commission has requested some additional data to complete the audit:
 
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout 
 
-Finally, need to provide a written analysis of the election audit for the election commission, including the new results and a clearly written overview of the methods.As with all written analyses, this will help your audience understand what you did and what they might be able to do with the data you presented.
+This project will adress this requirements from the election comissions and will also provide a written analysis of the election audit for the election commission. This report includes the new results. As with all written analyses, this will help your audience understand what was done and what they might be able to do with the data being presented.
 
 ## Results & Analysis
-This project consists of two technical analysis deliverables and a written report to deliver the results.
+This project consists of two technical analysis deliverables.
 
 Deliverable 1: The Election Results Printed to the Command Line
 
 Deliverable 2: The Election Results Saved to a Text File
-
-Deliverable 3: A written Analysis of the Election Audit (README.md)
 
 **Deliverable 1**
 
@@ -33,9 +31,6 @@ The below screenshot shows the results/output of election analysis written into 
  
 ![](Resources/Election_analysis_results_txtfile.png)
 
-**Deliverable 3**
-
-Deliverable is this README.md file which consists of the written analysis of the election Audit.
 
 ## Summary
 This project is intended to provide the election commission the results of an election. Along with the results it aslo provide total voter count for each county, the percentage of votes from each county of the total count & the county with highest turnout. 
